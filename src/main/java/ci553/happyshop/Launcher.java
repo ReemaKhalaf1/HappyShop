@@ -13,6 +13,7 @@ import javafx.application.Application;
  */
 // this is a test com.
     //a comment.
+    // 2 comment
 public class Launcher  {
     /**
      * The main method to start the full system.
